@@ -1,0 +1,17 @@
+{
+    "name": "user/mvc",
+    "authors": [
+        {
+            "name": "Alexey",
+            "email": "qwazik21@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload":{
+      "psr-4": {
+        "Core\\":"app/Core"
+      }
+    }
+}
